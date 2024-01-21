@@ -1,8 +1,8 @@
 # Setting up snallabot_media
 
-Once the bot is added to your league (see [main page](README.md)). Follow these instructions to setup the bot for your server:
+[Add the bot to your server](https://discord.com/oauth2/authorize?client_id=1130308137451257867&permissions=2048&scope=bot). Follow these instructions to setup the bot for your server:
 
-1. run the `/media_export` command. This will give you the URL that you will put inside the Madden Companion App. This URL is the same everytime you run this command
+1. run the `/media_export` command. This will give you the URL that you will put inside the Madden Companion App or Snallabot dashboard. This URL is the same everytime you run this command
 2. Open the Madden Companion App on your phone
 3. Find your league in the app and click on it
 4. Navigate to the Export section
